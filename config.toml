@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'pl-pl'
+title = 'Welcome'
+theme = "ananke" 
